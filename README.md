@@ -9,6 +9,7 @@ Vídeo: https://www.youtube.com/watch?v=MdZFR2op_mg&t=2s <br>
 Aberto para sugestões!
 
 ENGLISH: <br>
+<br>
 My first project published on GitHub! 🥇 <br> 
 ChatBot created with Node.js - Project Ascension Mode 🖥️ <br> 
 I modeled it with the intention of developing my personal project for a brand called Ascension Mode, designed to automate my customer service process via WhatsApp. 🛠️ <br>
